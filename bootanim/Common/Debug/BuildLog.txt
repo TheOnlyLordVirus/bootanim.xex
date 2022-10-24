@@ -1,0 +1,115 @@
+﻿Build started 10/16/2022 12:59:43 AM.
+     1>Project "C:\Users\TheNe\Documents\Visual Studio 2010\Projects\Xbox360Samples\DynamicLinkLibrary\Common\AtgFramework2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AtgFramework.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /Zi /nologo /W4 /WX- /Od /Oi /D _DEBUG /D _XBOX /D XBOX /D _XBOX_CRT_DEPRECATE_INSECURE /D _MBCS /GF- /Gm- /MTd /GS- /Gy- /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Yc"stdafx.h" /Fp"C:\Users\TheNe\Documents\Visual Studio 2010\Projects\Xbox360Samples\DynamicLinkLibrary\Common\Debug\AtgFramework.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP stdafx.cpp /callcap /MP /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\\include\xbox\xbox_intellisense_platform.h"
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /Zi /nologo /W4 /WX- /Od /Oi /D _DEBUG /D _XBOX /D XBOX /D _XBOX_CRT_DEPRECATE_INSECURE /D _MBCS /GF- /Gm- /MTd /GS- /Gy- /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Yu"stdafx.h" /Fp"C:\Users\TheNe\Documents\Visual Studio 2010\Projects\Xbox360Samples\DynamicLinkLibrary\Common\Debug\AtgFramework.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP AtgXmlParser.cpp AtgXmlWriter.cpp AtgAnimation.cpp AtgCamera.cpp AtgFrame.cpp AtgLight.cpp AtgMaterials.cpp AtgModel.cpp AtgNamedTypedObject.cpp AtgResourceDatabase.cpp AtgScene.cpp AtgSceneMesh.cpp AtgSkeletalAnimation.cpp AtgBound.cpp AtgCollision.cpp AtgAvatarRenderer.cpp AtgDebugDraw.cpp AtgFont.cpp AtgMesh.cpp AtgPostProcess.cpp AtgSimpleShaders.cpp AtgEnumStrings.cpp AtgMediaLocator.cpp AtgResource.cpp AtgSceneFileParser.cpp AtgHttp.cpp AtgJson.cpp AtgRest.cpp AtgApp.cpp AtgConsole.cpp AtgDevice.cpp AtgHelp.cpp AtgInput.cpp AtgAudio.cpp ATGDsp.cpp ATGSpectralDisplay.cpp AtgWavebank.cpp AtgUtil.cpp AtgXime.cpp AtgSessionManager.cpp AtgSignIn.cpp ATGNuiJointFilter.cpp AtgNuiCommon.cpp AtgNuiHandRefinement.cpp AtgNuiJointConverter.cpp AtgNuiMenu.cpp AtgNuiRelativeCoordinates.cpp AtgNuiVisualization.cpp /callcap /MP /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\\include\xbox\xbox_intellisense_platform.h"
+         AtgXmlParser.cpp
+         AtgXmlWriter.cpp
+         AtgAnimation.cpp
+         AtgCamera.cpp
+         AtgFrame.cpp
+         AtgLight.cpp
+         AtgMaterials.cpp
+         AtgModel.cpp
+         AtgNamedTypedObject.cpp
+         AtgResourceDatabase.cpp
+         AtgScene.cpp
+         AtgSceneMesh.cpp
+         AtgSkeletalAnimation.cpp
+         AtgBound.cpp
+         AtgCollision.cpp
+         AtgAvatarRenderer.cpp
+         AtgDebugDraw.cpp
+         AtgFont.cpp
+         AtgMesh.cpp
+         AtgPostProcess.cpp
+         AtgSimpleShaders.cpp
+         AtgEnumStrings.cpp
+         AtgMediaLocator.cpp
+         AtgResource.cpp
+         AtgSceneFileParser.cpp
+         AtgHttp.cpp
+         AtgJson.cpp
+         AtgRest.cpp
+         AtgApp.cpp
+         AtgConsole.cpp
+         AtgDevice.cpp
+         AtgHelp.cpp
+         AtgInput.cpp
+         AtgAudio.cpp
+         ATGDsp.cpp
+         ATGSpectralDisplay.cpp
+         AtgWavebank.cpp
+         AtgUtil.cpp
+         AtgXime.cpp
+         AtgSessionManager.cpp
+         AtgSignIn.cpp
+         ATGNuiJointFilter.cpp
+         AtgNuiCommon.cpp
+         AtgNuiHandRefinement.cpp
+         AtgNuiJointConverter.cpp
+         AtgNuiMenu.cpp
+         AtgNuiRelativeCoordinates.cpp
+         AtgNuiVisualization.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\Lib.exe /OUT:"C:\Users\TheNe\Documents\Visual Studio 2010\Projects\Xbox360Samples\DynamicLinkLibrary\Common\Debug\AtgFramework.lib" /NOLOGO Debug\stdafx.obj
+         Debug\AtgXmlParser.obj
+         Debug\AtgXmlWriter.obj
+         Debug\AtgAnimation.obj
+         Debug\AtgCamera.obj
+         Debug\AtgFrame.obj
+         Debug\AtgLight.obj
+         Debug\AtgMaterials.obj
+         Debug\AtgModel.obj
+         Debug\AtgNamedTypedObject.obj
+         Debug\AtgResourceDatabase.obj
+         Debug\AtgScene.obj
+         Debug\AtgSceneMesh.obj
+         Debug\AtgSkeletalAnimation.obj
+         Debug\AtgBound.obj
+         Debug\AtgCollision.obj
+         Debug\AtgAvatarRenderer.obj
+         Debug\AtgDebugDraw.obj
+         Debug\AtgFont.obj
+         Debug\AtgMesh.obj
+         Debug\AtgPostProcess.obj
+         Debug\AtgSimpleShaders.obj
+         Debug\AtgEnumStrings.obj
+         Debug\AtgMediaLocator.obj
+         Debug\AtgResource.obj
+         Debug\AtgSceneFileParser.obj
+         Debug\AtgHttp.obj
+         Debug\AtgJson.obj
+         Debug\AtgRest.obj
+         Debug\AtgApp.obj
+         Debug\AtgConsole.obj
+         Debug\AtgDevice.obj
+         Debug\AtgHelp.obj
+         Debug\AtgInput.obj
+         Debug\AtgAudio.obj
+         Debug\ATGDsp.obj
+         Debug\ATGSpectralDisplay.obj
+         Debug\AtgWavebank.obj
+         Debug\AtgUtil.obj
+         Debug\AtgXime.obj
+         Debug\AtgSessionManager.obj
+         Debug\AtgSignIn.obj
+         Debug\ATGNuiJointFilter.obj
+         Debug\AtgNuiCommon.obj
+         Debug\AtgNuiHandRefinement.obj
+         Debug\AtgNuiJointConverter.obj
+         Debug\AtgNuiMenu.obj
+         Debug\AtgNuiRelativeCoordinates.obj
+         Debug\AtgNuiVisualization.obj
+         AtgFramework2010.vcxproj -> C:\Users\TheNe\Documents\Visual Studio 2010\Projects\Xbox360Samples\DynamicLinkLibrary\Common\Debug\AtgFramework.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\AtgFramework.unsuccessfulbuild".
+         Touching "Debug\AtgFramework.lastbuildstate".
+     1>Done Building Project "C:\Users\TheNe\Documents\Visual Studio 2010\Projects\Xbox360Samples\DynamicLinkLibrary\Common\AtgFramework2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.38
